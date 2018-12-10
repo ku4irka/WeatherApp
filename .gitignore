@@ -1,6 +1,9 @@
 *.iml
 .gradle
+/.idea
+.idea/misc.xml
 /local.properties
+/.idea/codeStyles/codeStyleConfig.xml
 /.idea/caches/build_file_checksums.ser
 /.idea/libraries
 /.idea/modules.xml
@@ -9,3 +12,6 @@
 /build
 /captures
 .externalNativeBuild
+
+*.apk
+output.json
